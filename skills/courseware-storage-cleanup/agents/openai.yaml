@@ -1,0 +1,5 @@
+interface:
+  display_name: "课件空间清理"
+  short_description: "支持 Windows 和 macOS，先选三档方案，再核算并确认课件清理范围"
+  default_prompt: "使用 $courseware-storage-cleanup，先展示 A/B/C 选项，用括号写清清理内容并标注预计清理比例，让我选择；结束时说明空间仍不足可如何清理不用的 Codex 聊天。"
+
